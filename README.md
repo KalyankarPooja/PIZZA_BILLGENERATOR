@@ -2,9 +2,9 @@ In a pizza cafe there are three types of pizzas, Wheat,Maida and Handtoast, and 
 
 ->you can choose any one crust from the given list
 
-1.Wheat - 100
+1.Maida - 50
 
-2.Maida - 50
+2.Wheat - 100
 
 3.Handtoast -30
 
@@ -14,17 +14,17 @@ Cheese - 50;
 
 ->you will be asked to choose toppings from the list
 
-1.Tomato - 40
+1.Tomato - 50
 
 2.Onion - 30
 
-3.Olives - 45
+3.Mushroom - 60
 
-4.Mushroom - 60
+4.Paneer - 50
 
-5.Paneer - 50
+5.SweetCorn - 20
 
-6.SweetCorn - 25
+6.Olives - 45
 
 ->you will be asked for the size , select the size from given options
 
